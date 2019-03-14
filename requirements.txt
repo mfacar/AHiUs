@@ -1,0 +1,9 @@
+elasticsearch
+matplotlib
+keras
+numpy
+gensim
+spacy
+nltk
+pandas
+hunspell
